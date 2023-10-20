@@ -1,2 +1,2 @@
 # Exercises-Python
- Exercícios/desafios de Python do curso de Python ministrado pelo professor Gustavo Guanabara - Curso em Vídeo.
+ Python exercises/challenges from the Python course taught by professor Gustavo Guanabara - Video Course. In this course I learned the basics of the Python language, including modules and error handling.
